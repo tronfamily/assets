@@ -34,5 +34,14 @@
     "payout": {
       "commission": 0
     }
+  },
+  {
+    "id": "TWGGB35HUudizmcLheQN7kANDnD8KfgKkK",
+    "name": "TRON-Family",
+    "description": "TRON-Family is a Super Representative Partner which stands for product development like desktop wallet, distribution systems and also TRON-Radar. We see our main task in the area of community and development.",
+    "website": "https://tron-family.de",
+    "payout": {
+      "commission": 80
+    }
   }
 ]
